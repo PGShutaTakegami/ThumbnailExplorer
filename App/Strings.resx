@@ -1,0 +1,405 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms</value>
+  </resheader>
+  <data name="AddImage" xml:space="preserve">
+    <value>Add image</value>
+  </data>
+  <data name="AddShape" xml:space="preserve">
+    <value>Add shape</value>
+  </data>
+  <data name="AddText" xml:space="preserve">
+    <value>Add text</value>
+  </data>
+  <data name="AllFiles" xml:space="preserve">
+    <value>All files</value>
+  </data>
+  <data name="AlreadyExists" xml:space="preserve">
+    <value>An item with that name already exists.</value>
+  </data>
+  <data name="Back" xml:space="preserve">
+    <value>Back</value>
+  </data>
+  <data name="Beige" xml:space="preserve">
+    <value>Beige</value>
+  </data>
+  <data name="BringForward" xml:space="preserve">
+    <value>Forward</value>
+  </data>
+  <data name="Cancel" xml:space="preserve">
+    <value>Cancel</value>
+  </data>
+  <data name="ChooseDisplayFolder" xml:space="preserve">
+    <value>Choose a folder to browse</value>
+  </data>
+  <data name="ChooseFolder" xml:space="preserve">
+    <value>Browse…</value>
+  </data>
+  <data name="ChooseImage" xml:space="preserve">
+    <value>Choose a thumbnail image</value>
+  </data>
+  <data name="ClearInk" xml:space="preserve">
+    <value>Clear</value>
+  </data>
+  <data name="ClipboardEmpty" xml:space="preserve">
+    <value>The clipboard contains no files or folders.</value>
+  </data>
+  <data name="CompressFolderLinkError" xml:space="preserve">
+    <value>Cannot compress a folder that contains a link. {0}</value>
+  </data>
+  <data name="CompressLinkError" xml:space="preserve">
+    <value>Cannot compress the link. {0}</value>
+  </data>
+  <data name="CompressZip" xml:space="preserve">
+    <value>Create ZIP</value>
+  </data>
+  <data name="ConfirmDiscard" xml:space="preserve">
+    <value>Discard unsaved changes?</value>
+  </data>
+  <data name="ConfirmRemoveThumbnail" xml:space="preserve">
+    <value>Remove the saved thumbnail and discard any edits for this item?</value>
+  </data>
+  <data name="CopiedCount" xml:space="preserve">
+    <value>Copied items: {0}.</value>
+  </data>
+  <data name="Copy" xml:space="preserve">
+    <value>Copy</value>
+  </data>
+  <data name="CreateFolderError" xml:space="preserve">
+    <value>Could not create the folder.</value>
+  </data>
+  <data name="Created" xml:space="preserve">
+    <value>Created {0}.</value>
+  </data>
+  <data name="Cut" xml:space="preserve">
+    <value>Cut</value>
+  </data>
+  <data name="CutCount" xml:space="preserve">
+    <value>Cut items: {0}.</value>
+  </data>
+  <data name="Dark" xml:space="preserve">
+    <value>Dark</value>
+  </data>
+  <data name="DefaultArchive" xml:space="preserve">
+    <value>Archive.zip</value>
+  </data>
+  <data name="DefaultFolder" xml:space="preserve">
+    <value>New folder</value>
+  </data>
+  <data name="Delete" xml:space="preserve">
+    <value>Delete</value>
+  </data>
+  <data name="Descending" xml:space="preserve">
+    <value>Descending</value>
+  </data>
+  <data name="Desktop" xml:space="preserve">
+    <value>Desktop</value>
+  </data>
+  <data name="Documents" xml:space="preserve">
+    <value>Documents</value>
+  </data>
+  <data name="Downloads" xml:space="preserve">
+    <value>Downloads</value>
+  </data>
+  <data name="Drawing" xml:space="preserve">
+    <value>Drawing</value>
+  </data>
+  <data name="Drive" xml:space="preserve">
+    <value>Drive ({0})</value>
+  </data>
+  <data name="Ellipse" xml:space="preserve">
+    <value>Ellipse</value>
+  </data>
+  <data name="EmptyFolder" xml:space="preserve">
+    <value>No items to display</value>
+  </data>
+  <data name="Eraser" xml:space="preserve">
+    <value>Eraser</value>
+  </data>
+  <data name="Extensions" xml:space="preserve">
+    <value>Extensions</value>
+  </data>
+  <data name="FailedCount" xml:space="preserve">
+    <value>Items that could not be processed: {0}.</value>
+  </data>
+  <data name="File" xml:space="preserve">
+    <value>File</value>
+  </data>
+  <data name="Fill" xml:space="preserve">
+    <value>Fill</value>
+  </data>
+  <data name="Folder" xml:space="preserve">
+    <value>Folder</value>
+  </data>
+  <data name="FolderContainsLink" xml:space="preserve">
+    <value>The folder contains a link. {0}</value>
+  </data>
+  <data name="FolderIntoItself" xml:space="preserve">
+    <value>You cannot copy or move a folder into itself.</value>
+  </data>
+  <data name="FolderNavigation" xml:space="preserve">
+    <value>Folder navigation</value>
+  </data>
+  <data name="FolderPath" xml:space="preserve">
+    <value>Folder path</value>
+  </data>
+  <data name="FolderRefreshed" xml:space="preserve">
+    <value>Folder refreshed.</value>
+  </data>
+  <data name="Font" xml:space="preserve">
+    <value>Font</value>
+  </data>
+  <data name="FontSize" xml:space="preserve">
+    <value>Font size</value>
+  </data>
+  <data name="Forward" xml:space="preserve">
+    <value>Forward</value>
+  </data>
+  <data name="Height" xml:space="preserve">
+    <value>Height</value>
+  </data>
+  <data name="HiddenItems" xml:space="preserve">
+    <value>Hidden items</value>
+  </data>
+  <data name="Home" xml:space="preserve">
+    <value>Home</value>
+  </data>
+  <data name="ImageFiles" xml:space="preserve">
+    <value>Images</value>
+  </data>
+  <data name="InvalidLayerData" xml:space="preserve">
+    <value>The thumbnail layer data is invalid.</value>
+  </data>
+  <data name="InvalidName" xml:space="preserve">
+    <value>Enter a valid Windows file or folder name.</value>
+  </data>
+  <data name="ItemCount" xml:space="preserve">
+    <value>Items: {0:N0}</value>
+  </data>
+  <data name="Layer" xml:space="preserve">
+    <value>Select a layer</value>
+  </data>
+  <data name="LayerLimit" xml:space="preserve">
+    <value>You can add up to 100 layers.</value>
+  </data>
+  <data name="Light" xml:space="preserve">
+    <value>Light</value>
+  </data>
+  <data name="LinkTransferError" xml:space="preserve">
+    <value>Copying links and moving folder links are unsupported.</value>
+  </data>
+  <data name="LoadFailed" xml:space="preserve">
+    <value>Could not load</value>
+  </data>
+  <data name="LoadImageError" xml:space="preserve">
+    <value>Could not load the image.</value>
+  </data>
+  <data name="LoadThumbnailError" xml:space="preserve">
+    <value>Could not load the thumbnail. {0}</value>
+  </data>
+  <data name="MissingItem" xml:space="preserve">
+    <value>The selected item was not found.</value>
+  </data>
+  <data name="MissingThumbnailData" xml:space="preserve">
+    <value>Some thumbnail data is missing.</value>
+  </data>
+  <data name="MovedCount" xml:space="preserve">
+    <value>Moved items: {0}.</value>
+  </data>
+  <data name="NameConflict" xml:space="preserve">
+    <value>An item with that name already exists. {0}</value>
+  </data>
+  <data name="Navigation" xml:space="preserve">
+    <value>Navigation</value>
+  </data>
+  <data name="NewFolder" xml:space="preserve">
+    <value>New folder</value>
+  </data>
+  <data name="NextPage" xml:space="preserve">
+    <value>Next page</value>
+  </data>
+  <data name="Open" xml:space="preserve">
+    <value>Open</value>
+  </data>
+  <data name="OpenFile" xml:space="preserve">
+    <value>Open file</value>
+  </data>
+  <data name="OpenFileError" xml:space="preserve">
+    <value>Could not open the file.</value>
+  </data>
+  <data name="OpenFolder" xml:space="preserve">
+    <value>Open folder</value>
+  </data>
+  <data name="OpenFolderError" xml:space="preserve">
+    <value>Could not open the folder.</value>
+  </data>
+  <data name="OpenPathError" xml:space="preserve">
+    <value>Could not open the path.</value>
+  </data>
+  <data name="PagedItemCount" xml:space="preserve">
+    <value>Items: {0:N0}   ·   {1} / {2}</value>
+  </data>
+  <data name="ParentFolder" xml:space="preserve">
+    <value>Parent folder</value>
+  </data>
+  <data name="Paste" xml:space="preserve">
+    <value>Paste</value>
+  </data>
+  <data name="PasteError" xml:space="preserve">
+    <value>Could not finish pasting.</value>
+  </data>
+  <data name="Pen" xml:space="preserve">
+    <value>Pen</value>
+  </data>
+  <data name="PenColor" xml:space="preserve">
+    <value>Pen color</value>
+  </data>
+  <data name="PenWidth" xml:space="preserve">
+    <value>Pen width</value>
+  </data>
+  <data name="Pictures" xml:space="preserve">
+    <value>Pictures</value>
+  </data>
+  <data name="PreviousPage" xml:space="preserve">
+    <value>Previous page</value>
+  </data>
+  <data name="QuickFolders" xml:space="preserve">
+    <value>Quick access</value>
+  </data>
+  <data name="Rectangle" xml:space="preserve">
+    <value>Rectangle</value>
+  </data>
+  <data name="Refresh" xml:space="preserve">
+    <value>Refresh</value>
+  </data>
+  <data name="RefreshError" xml:space="preserve">
+    <value>Could not refresh the folder.</value>
+  </data>
+  <data name="RemoveImage" xml:space="preserve">
+    <value>Remove image</value>
+  </data>
+  <data name="RemoveThumbnail" xml:space="preserve">
+    <value>Remove thumbnail</value>
+  </data>
+  <data name="RemoveThumbnailError" xml:space="preserve">
+    <value>Could not remove the thumbnail.</value>
+  </data>
+  <data name="RemoveThumbnailTitle" xml:space="preserve">
+    <value>Remove thumbnail</value>
+  </data>
+  <data name="Rename" xml:space="preserve">
+    <value>Rename</value>
+  </data>
+  <data name="RenameError" xml:space="preserve">
+    <value>Could not finish renaming.</value>
+  </data>
+  <data name="Renamed" xml:space="preserve">
+    <value>Renamed {0}.</value>
+  </data>
+  <data name="Save" xml:space="preserve">
+    <value>Save</value>
+  </data>
+  <data name="SaveSettingsError" xml:space="preserve">
+    <value>Could not save display settings.</value>
+  </data>
+  <data name="SaveThumbnailError" xml:space="preserve">
+    <value>Could not save the thumbnail.</value>
+  </data>
+  <data name="Search" xml:space="preserve">
+    <value>Search</value>
+  </data>
+  <data name="SearchByName" xml:space="preserve">
+    <value>Search by name</value>
+  </data>
+  <data name="SelectItemToEdit" xml:space="preserve">
+    <value>Select a file or folder to edit its thumbnail.</value>
+  </data>
+  <data name="SendBackward" xml:space="preserve">
+    <value>Backward</value>
+  </data>
+  <data name="ShapeHeight" xml:space="preserve">
+    <value>Shape height</value>
+  </data>
+  <data name="ShapeType" xml:space="preserve">
+    <value>Shape type</value>
+  </data>
+  <data name="ShapeWidth" xml:space="preserve">
+    <value>Shape width</value>
+  </data>
+  <data name="Sort" xml:space="preserve">
+    <value>Sort by</value>
+  </data>
+  <data name="SortModified" xml:space="preserve">
+    <value>Date modified</value>
+  </data>
+  <data name="SortName" xml:space="preserve">
+    <value>Name</value>
+  </data>
+  <data name="SortSize" xml:space="preserve">
+    <value>Size</value>
+  </data>
+  <data name="SortType" xml:space="preserve">
+    <value>Type</value>
+  </data>
+  <data name="Text" xml:space="preserve">
+    <value>Text</value>
+  </data>
+  <data name="TextAndShapes" xml:space="preserve">
+    <value>Text and shapes</value>
+  </data>
+  <data name="TextColor" xml:space="preserve">
+    <value>Text color</value>
+  </data>
+  <data name="TextLayer" xml:space="preserve">
+    <value>Text · {0}</value>
+  </data>
+  <data name="Theme" xml:space="preserve">
+    <value>Theme</value>
+  </data>
+  <data name="ThumbnailEditor" xml:space="preserve">
+    <value>Thumbnail editor</value>
+  </data>
+  <data name="ThumbnailRemoved" xml:space="preserve">
+    <value>Thumbnail removed.</value>
+  </data>
+  <data name="ThumbnailSaved" xml:space="preserve">
+    <value>Saved thumbnail for {0}.</value>
+  </data>
+  <data name="Triangle" xml:space="preserve">
+    <value>Triangle</value>
+  </data>
+  <data name="UndoInk" xml:space="preserve">
+    <value>Undo drawing</value>
+  </data>
+  <data name="UnsavedChanges" xml:space="preserve">
+    <value>You have unsaved changes.</value>
+  </data>
+  <data name="Width" xml:space="preserve">
+    <value>Width</value>
+  </data>
+  <data name="Working" xml:space="preserve">
+    <value>Working on files…</value>
+  </data>
+  <data name="WriteClipboardError" xml:space="preserve">
+    <value>Could not write to the clipboard.</value>
+  </data>
+  <data name="ZipError" xml:space="preserve">
+    <value>Could not create the ZIP file.</value>
+  </data>
+  <data name="Zoom" xml:space="preserve">
+    <value>Zoom</value>
+  </data>
+  <data name="ZoomHint" xml:space="preserve">
+    <value>Zoom (Ctrl + mouse wheel)</value>
+  </data>
+</root>

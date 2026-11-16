@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <UseWindowsForms>true</UseWindowsForms>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <NeutralLanguage>en</NeutralLanguage>
+    <ApplicationIcon>Assets/ThumbnailExplorer.ico</ApplicationIcon>
+    <AssemblyName>ThumbnailExplorer</AssemblyName>
+  </PropertyGroup>
+  <ItemGroup>
+    <Resource Include="Assets/ThumbnailExplorer.ico" />
+    <Resource Include="Assets/ThumbnailExplorer.png" />
+  </ItemGroup>
+</Project>
