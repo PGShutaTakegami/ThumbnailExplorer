@@ -1,0 +1,18 @@
+﻿Thumbnail Explorer Terms of Use
+
+1. Scope
+These terms apply to the installation and use of Thumbnail Explorer (the Software), provided by PGShutaTakegami (the Provider). You may install the Software after accepting these terms.
+
+2. Use and file handling
+You may install and use the Software. Only view, edit, move, or copy files you have permission to handle. Rights in images or other content selected by users remain with their respective owners.
+
+3. Stored data
+Display settings and editable thumbnail data are stored in your Windows profile. This data is retained after a standard uninstall.
+
+4. Warranty and liability
+The Software is provided as is. Except as required by applicable law, the Provider gives no warranty of fitness for a particular purpose, compatibility with every environment, or error-free operation. Back up important data as needed before performing file operations.
+
+The Provider is not liable for damage arising from circumstances for which the Provider is not responsible. Where the Provider is liable due to ordinary negligence, liability is limited to direct, ordinary damages to the extent permitted by applicable law. This limitation does not apply to intentional misconduct or gross negligence and does not limit rights under mandatory law, including the Japanese Consumer Contract Act where applicable.
+
+5. Third-party software
+Bundled third-party components are governed by their respective licenses. See the accompanying license documents.

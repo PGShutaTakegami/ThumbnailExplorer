@@ -12,6 +12,10 @@ Windows 用のファイルブラウザーです。アプリ内の一覧でファ
 dotnet publish App/ThumbnailExplorer.csproj -c Release -o Release
 ```
 
+## インストーラー
+
+セットアップの利用方法とビルド方法は [Installer/README.md](Installer/README.md) を参照してください。
+
 ## 表示言語
 
 起動時に Windows の表示言語を読み取ります。日本語の環境では日本語で表示し、英語およびその他の環境では英語で表示します。Windows の表示言語を変更した後はアプリを開き直してください。配布時は、実行ファイルと一緒に `ja` フォルダーもコピーしてください。
